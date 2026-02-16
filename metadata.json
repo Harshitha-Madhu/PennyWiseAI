@@ -1,0 +1,5 @@
+{
+  "name": "PennyWise AI",
+  "description": "A comprehensive financial coach using Gemini AI for transaction categorization, semantic search over spending, and personalized financial advice.",
+  "requestFramePermissions": []
+}
