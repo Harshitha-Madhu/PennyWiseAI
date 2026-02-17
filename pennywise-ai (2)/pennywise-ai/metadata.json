@@ -1,8 +1,0 @@
-
-{
-  "name": "PennyWise AI - Lead AI Engineer Edition",
-  "description": "High-end MERN-stack conceptual financial coach using Gemini 3 Flash.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
